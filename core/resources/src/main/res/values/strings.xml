@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Moises Music</string>
+
+    <!-- Navigation -->
+    <string name="nav_back">Back</string>
+    <string name="nav_more_options">More options</string>
+
+    <!-- Screen titles -->
+    <string name="title_songs">Songs</string>
+    <string name="title_albums">Albums</string>
+    <string name="title_album">Album</string>
+    <string name="title_music">Music</string>
+    <string name="title_now_playing">Now playing</string>
+
+    <!-- Player controls -->
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_shuffle">Shuffle</string>
+    <string name="action_repeat">Repeat</string>
+
+    <!-- Player state -->
+    <string name="player_no_track">No track playing</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_album_artwork">Album artwork</string>
+    <string name="cd_track_artwork">Track artwork</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_close_search">Close search</string>
+    <string name="cd_forward_10">Forward 10 seconds</string>
+    <string name="cd_rewind_10">Rewind 10 seconds</string>
+
+    <!-- Actions -->
+    <string name="action_view_album">View album</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_search">Search</string>
+
+    <!-- Placeholders -->
+    <string name="placeholder_unknown_album">Unknown Album</string>
+    <string name="placeholder_unknown_artist">Unknown Artist</string>
+
+    <!-- Loading states -->
+    <string name="loading_album">Loading album...</string>
+    <string name="loading_songs">Loading songs...</string>
+
+    <!-- Empty states -->
+    <string name="empty_no_songs_found">No songs found</string>
+    <string name="empty_try_different_search">Try searching for something else</string>
+
+    <!-- Error states -->
+    <string name="error_loading_content">Error loading content</string>
+    <string name="error_generic">An error occurred</string>
+</resources>
