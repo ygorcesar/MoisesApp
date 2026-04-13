@@ -2,6 +2,18 @@
 
 A multi-platform Android music application showcasing MVVM architecture with Jetpack Compose, supporting Android Phone and Android Automotive.
 
+### Mobile
+
+https://github.com/user-attachments/assets/17400a24-8bb3-4a52-892a-d8f5bc6b0869
+
+### Automotive
+
+https://github.com/user-attachments/assets/07d32456-f59f-4669-9b4e-e199424fdfc6
+
+
+
+
+
 ## Architecture
 
 The project follows with **MVVM** with **Clean Architecture** principles with the following module structure:
